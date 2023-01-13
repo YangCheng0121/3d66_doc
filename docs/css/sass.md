@@ -26,7 +26,7 @@ Sass 使用 “缩进” 代替 “花括号” 表示属性属于某个选择�
 
 ### 团队约定
 
-严格遵守上面 “CSS规范” 中的 [“编码规范”](code.html)
+严格遵守上面 “CSS规范” 中的 [“编码规范”](code.md)
 
 更多关于 SASS 编码：[SASS Encodings](http://sass-lang.com/documentation/file.SASS_REFERENCE.html)
 
