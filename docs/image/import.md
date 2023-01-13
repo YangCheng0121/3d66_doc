@@ -8,7 +8,7 @@
 https://img11.360buyimg.com/seckillcms/s250x250_jfs/t1/73050/35/23264/71294/63bf8e87Fba06dac2/d23d2a56d66d276c.jpg
 ```
 
-![image](https://raw.githubusercontent.com/YangCheng0121/tepeng_img/main/s250x250_jfs.png)
+![image](https://raw.githubusercontent.com/YangCheng0121/3d66_img/main/s250x250_2.png)
 
 
 HTML 中图片引入不需添加 width、height 属性，alt 属性应该写上
