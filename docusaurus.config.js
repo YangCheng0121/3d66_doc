@@ -9,7 +9,7 @@ const config = {
   title: '3D66',
   tagline: '特鹏前端团队',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/doc',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
