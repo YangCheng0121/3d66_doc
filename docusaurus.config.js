@@ -9,7 +9,7 @@ const config = {
   title: '3D66',
   tagline: '特鹏前端团队',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  baseUrl: '/doc',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -65,11 +65,11 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'index',
+            docId: 'code/index',
             position: 'left',
-            label: '代码规范',
+            label: '文档',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: '博客', position: 'left'},
           {
             href: 'https://github.com/YangCheng0121/tepeng',
             label: 'GitHub',
