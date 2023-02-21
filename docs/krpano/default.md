@@ -1,6 +1,4 @@
----
-title: 默认皮肤详解
----
+# 默认皮肤详解
 
 ```xml
 <!-- krpano 1.19.pr8 - Virtual Tour Skin -->
